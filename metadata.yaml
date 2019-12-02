@@ -1,5 +1,8 @@
 _repo: Ollin-Mikko-Aapon-Ulla-ja-Ullan-Eino-Kertomus-kylan-takalistolta_60785
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kataja, Väinö
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5390
     wikipedia: http://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Kataja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60785#Ollin-Mikko-Aapon-Ulla-ja-Ullan-Eino-Kertomus-kylan-takalistolta
 gutenberg_issued: '2019-11-26'
 gutenberg_type: Text
 identifiers:
